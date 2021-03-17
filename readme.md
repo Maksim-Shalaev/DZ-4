@@ -1,4 +1,4 @@
-![](logo.png)
+﻿![](logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
@@ -7,4 +7,4 @@
 * Высокая скорость поиска
 * Низкая цена
 
-<script src="https://localhost/neuro.sdk.min.js"></script>x
+<script src="https://localhost/neuro.sdk.min.js"></script>
